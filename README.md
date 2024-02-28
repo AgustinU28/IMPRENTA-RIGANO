@@ -3,7 +3,7 @@ Esta es una página web diseñada para una imprenta gráfica, proporcionando inf
 Tecnologías Utilizadas
 HTML
 CSS
-Node.js
+JS
 Cómo Usar
 Clona este repositorio en tu máquina local.
 Abre el archivo index.html en tu navegador web para explorar la página.
